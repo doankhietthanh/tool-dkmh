@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "puppeteer": "^13.1.1"
+  }
+}
